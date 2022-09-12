@@ -1,0 +1,6 @@
+export { About } from './about-us/About'
+export { Blog } from './blog/Blog'
+export { Contact } from './contact/Contact'
+export { Home } from './home/Home'
+export { Portfolio } from './portfolio/Portfolio'
+export { Resume } from './resume/Resume'
